@@ -1,0 +1,26 @@
+<!-- templates/certificate.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Academic Certificate</title>
+    <style>
+        body { font-family: Arial; }
+        .certificate { 
+            border: 2px solid #000; 
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="certificate">
+        <h1>Certificate of Completion</h1>
+        <p>This is to certify that</p>
+        <h2>{studentName}</h2>
+        <p>has successfully completed the course</p>
+        <h3>{courseName}</h3>
+        <p>with grade: {grade}</p>
+        <p>Date: {date}</p>
+        <p>Student ID: {studentId}</p>
+    </div>
+</body>

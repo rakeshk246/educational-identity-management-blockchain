@@ -68,8 +68,7 @@ Secure, tamper-proof, and globally accessible identity for students, institution
 
 ## 📸 Screenshots
 
-> _Coming Soon!_  
-> *(You can add screenshots of your app once ready.)*
+> _Coming Soon!_
 
 ---
 
